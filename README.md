@@ -19,6 +19,7 @@
 
 ## Installation
  No installation is necessary. Just click on the link below to begin using the text editor!
+ 
  [JATE](https://morning-chamber-02751-7300bfb4e96b.herokuapp.com/)
  
 ## Licenses
